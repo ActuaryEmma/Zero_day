@@ -1,1 +1,1 @@
-# zero_day
+*This file in mandatory in projects*
